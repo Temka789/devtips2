@@ -4,6 +4,7 @@ html {
 
 body {
     font-family: "Times New Roman";
+    background: #000;
 }
 .content {
     width: 100%;
@@ -17,4 +18,7 @@ h3 {
     font-size: 1.5rem;
     margin-top: 0;
     color: red;
+}
+.new-idea {
+
 }
